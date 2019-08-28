@@ -36,7 +36,7 @@ public class ATMSimulator {
 				atm.validateCustomer(number, pin);
 			}
 			else if (state == ATM.TRANSACT) {
-				System.out.println("Balance=" + atm.getBalance());
+				System.out.println("Balance= " + atm.getBalance());
 				System.out.print("A=Deposit, B=Withdrawal, C=Transfer, D=Done, E=Exit: ");
 				String command = in.next();
 
