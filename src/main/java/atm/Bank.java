@@ -3,7 +3,6 @@ package atm;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-
 /**
  * A bank contains customers with bank accounts.
  */

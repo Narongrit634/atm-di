@@ -1,7 +1,6 @@
 package atm;
 
 import java.io.IOException;
-
 /**
  * An ATM that accesses a bank.
  */
